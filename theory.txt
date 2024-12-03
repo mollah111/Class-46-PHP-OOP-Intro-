@@ -1,0 +1,23 @@
+
+OOP = Object Oriented Programming (PHP, JAVA, Python, C#, C++)
+
+MVC (OOP)
+
+============OOP===============
+
+Object => Class
+
+
+Car (Object) == Color, Model, Engine, Wheel (Blue Print => Class)
+
+
+Class ClassName{
+    properties (variable, method)
+}
+
+
+===========Access Modifier========
+
+public
+private
+protected
